@@ -1,6 +1,6 @@
-principal = 1000
+principal = 10000
 rate = 0.05
-time = 3
+time = 4
 
 interest = principal * rate * time
 
